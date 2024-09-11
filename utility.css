@@ -1,0 +1,15 @@
+.flex{
+    display: flex;
+}
+.invert{
+    filter: invert(1);
+}
+.pointer{
+    cursor: pointer;
+}
+.center{
+    align-items: center;
+}
+.black{
+    background-color: black;
+}
